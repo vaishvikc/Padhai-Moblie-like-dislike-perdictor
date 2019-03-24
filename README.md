@@ -2,6 +2,7 @@
 My submission of the contest
 
 Accuracy:-
+
 perceptron_with_Mean_normalization_v1.ipynb with 84.4%
 
 perceptron_with_Mean_normalization_v2.ipynd with 85.5%
